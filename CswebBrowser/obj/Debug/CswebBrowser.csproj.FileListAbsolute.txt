@@ -1,0 +1,11 @@
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\bin\Debug\CswebBrowser.exe
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\bin\Debug\CswebBrowser.pdb
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.csproj.AssemblyReference.cache
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.MainForm.resources
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.Properties.Resources.resources
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.csproj.GenerateResource.cache
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.exe
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.pdb
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\bin\Debug\CswebBrowser.exe.config
+C:\Users\My Pc\source\repos\CswebBrowser\CswebBrowser\obj\Debug\CswebBrowser.settingForm.resources
